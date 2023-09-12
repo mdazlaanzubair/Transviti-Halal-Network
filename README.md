@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Halal Network Website Frontend Task
 
-## Getting Started
+This repository contains the code for the frontend of the **Halal Network** website. The task was given by **[Transviti](https://transviti.com/ "Transviti")** as part of the hiring process for the position of **[Frontend Developer](https://www.google.com/search?q=frontend+developer "Frontend Developer")**.
 
-First, run the development server:
+## Build
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+##### Deployment
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The final build is deployed on **[Vercel](https://vercel.com/ "Vercel")**, a popular cloud hosting platform for static websites and web applications. **[Click here](https://vercel.com/dashboard "Click here")** to have a preview.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+##### Technologies
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Following are the Frontend Technologies used to build the website:
 
-## Learn More
+- **[Next.js](https://nextjs.org/ "Next.js")** is a popular React-based framework for building server-side rendered (SSR) web applications.
 
-To learn more about Next.js, take a look at the following resources:
+- **[Tailwind CSS](https://tailwindcss.com/ "Tailwind CSS")** is a popular CSS framework that provides a set of pre-defined classes for styling web pages.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **[Daisy UI](https://daisyui.com/ "Daisy UI")** is a popular open-source UI framework for building web applications.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+This will deploy the website to Vercel and make it live.
 
-## Deploy on Vercel
+## Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+If you would like to contribute to the project, please fork the repository and submit a pull request.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contact
+
+If you have any questions or feedback, please feel free to contact me at **[mdazlaan1996@gmail.com](mailto:mdazlaan1996@gmail.com "mdazlaan1996@gmail.com")**.
