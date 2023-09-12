@@ -13,11 +13,11 @@ const Introduction = () => {
             Your ultimate destination for all halal things!
           </h1>
           <p className="font-light text-lg">
-            Whether you're searching for the nearest mosque or looking for a
-            delicious halal restaurant to try out, we've got you covered. With
-            our exciting features, you can follow and connect with like-minded
-            individuals, and chat with them. Join our vibrant and inclusive
-            community by attending our events.
+            Whether you&apos;re searching for the nearest mosque or looking for
+            a delicious halal restaurant to try out, we&apos;ve got you covered.
+            With our exciting features, you can follow and connect with
+            like-minded individuals, and chat with them. Join our vibrant and
+            inclusive community by attending our events.
           </p>
         </div>
         <div className="min-w-1/4">
