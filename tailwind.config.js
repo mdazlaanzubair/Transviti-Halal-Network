@@ -8,7 +8,7 @@ module.exports = {
     // Or if using `src` directory:
     "./src/**/*.{js,ts,jsx,tsx,mdx}",
   ],
-  theme: {},
+
   plugins: [require("daisyui")],
 
   // daisyUI config (optional - here are the default values)

@@ -8,7 +8,7 @@ const LeftSidebarToggler = () => {
   return (
     <button
       type="button"
-      className="absolute lg:hidden btn btn-primary text-base-100 bottom-5 right-5 capitalize"
+      className="fixed lg:hidden btn btn-primary text-base-100 bottom-5 right-5 capitalize"
       onClick={() => setIsSidebarOpen(!isSidebarOpen)}
     >
       Menu

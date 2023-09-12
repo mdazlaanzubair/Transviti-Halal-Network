@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className="w-full bg-base-100">
       <div className="container px-3 mx-auto">
-        <div className="w-full grid grid-cols-3 lg:grid-cols-4 justify-between items-center gap-5 bg-base-100">
+        <div className="w-full grid grid-cols-3 lg:grid-cols-4 justify-between items-center gap-5 bg-base-100 py-3">
           <div className="col-span-3 lg:col-span-1">
             <Link href="/" className="w-auto">
               <img
