@@ -3,8 +3,8 @@ import React from "react";
 const CallToAction = () => {
   return (
     <div className="hero bg-base-100 rounded-box shadow-md">
-      <div className="hero-content flex-col lg:flex-row items-start justify-start">
-        <div className="text-center lg:text-left my-20">
+      <div className="hero-content flex-col lg:flex-row items-center justify-center">
+        <div className="text-center lg:text-left mt-20">
           <h1 className="text-3xl font-bold text-primary">
             Connect the global Muslim community
           </h1>
