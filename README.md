@@ -22,8 +22,6 @@ Following are the Frontend Technologies used to build the website:
 
 [![](./public/homepage_design_preview.jpg)](https://transviti-halal-network.vercel.app/)
 
-#### Final Build
-
 ## Contributing
 
 If you would like to contribute to the project, please fork the repository and submit a pull request.

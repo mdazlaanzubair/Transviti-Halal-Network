@@ -17,8 +17,11 @@ module.exports = {
       {
         halal_theme: {
           ...require("daisyui/src/theming/themes")["[data-theme=bumblebee]"],
-          primary: "blue",
-          "primary-focus": "mediumblue",
+          primary: "#fe5d31",
+          "base-100": "#ffffff",
+          "base-200": "#f5f5f5",
+          "base-content": "#333333",
+          neutral: "#35383f",
         },
       },
     ],
