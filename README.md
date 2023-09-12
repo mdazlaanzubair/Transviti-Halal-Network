@@ -6,7 +6,7 @@ This repository contains the code for the frontend of the **Halal Network** webs
 
 ##### Deployment
 
-The final build is deployed on **[Vercel](https://vercel.com/ "Vercel")**, a popular cloud hosting platform for static websites and web applications. **[Click here](https://vercel.com/dashboard "Click here")** to have a preview.
+The final build is deployed on **[Vercel](https://vercel.com/ "Vercel")**, a popular cloud hosting platform for static websites and web applications. **[Click here](https://transviti-halal-network.vercel.app/ "Click here")** to have a preview.
 
 ##### Technologies
 
@@ -18,7 +18,11 @@ Following are the Frontend Technologies used to build the website:
 
 - **[Daisy UI](https://daisyui.com/ "Daisy UI")** is a popular open-source UI framework for building web applications.
 
-This will deploy the website to Vercel and make it live.
+## Requirement Preview
+
+[![](./public/homepage_design_preview.jpg)](https://transviti-halal-network.vercel.app/)
+
+#### Final Build
 
 ## Contributing
 
