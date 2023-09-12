@@ -6,6 +6,7 @@ import MainContent from "./components/main/MainContent";
 import Navbar from "./components/navigation/Navbar";
 import RightSidebar from "./components/right/RightSidebar";
 import LeftSidebarToggler from "./components/left/LeftSidebarToggler";
+import Footer from "./components/Footer";
 
 export default function Home() {
   return (
@@ -23,6 +24,13 @@ export default function Home() {
             <div className="col-span-1">
               <RightSidebar />
             </div>
+          </div>
+          <div className="grid grid-cols-1 lg:grid-cols-4">
+            <div></div>
+            <div className="col-span-2">
+              <Footer />
+            </div>
+            <div></div>
           </div>
         </div>
         <LeftSidebarToggler />
